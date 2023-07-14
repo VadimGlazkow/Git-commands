@@ -23,6 +23,7 @@
 
 
 # **Настройка Git**
+
 ```bash
 $ git config --global user.name "User Namovich" 
 # имя или ник нужно написать латиницей и в кавычках
@@ -220,4 +221,3 @@ modified (англ. «изменённый»)
     # но только не мем с Doge
     !doge.jpeg 
     ```
-
