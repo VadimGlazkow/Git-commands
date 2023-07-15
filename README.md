@@ -1,4 +1,4 @@
-# **<p style="text-align: center;">Centered text</p>**
+# **Шпаргалка по Git**
 
 
 [Настройка Git](#настройка-git)  
